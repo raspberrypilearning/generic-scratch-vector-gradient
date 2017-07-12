@@ -8,5 +8,5 @@ First create a shape, then choose the 'Color a shape' tool:
 
 Select the kind of gradient you want to use and the two colours you want to use. Then click on the shape you want to fill. 
  
-![screenshot](images/vector-left-right.png)
+![screenshot](images/vector-gradient-left-right.png)
 
