@@ -1,0 +1,16 @@
+---
+title: Using gradients in Scratch paint
+hero_image: images/banner.png
+description: Using the Scratch paint tool in vector mode to apply colour gradients
+original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+theme: red
+duration: 1
+listed: false
+ingredient: true
+copyedit: true
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: "graphics"
+technologies: "scratch"
+steps:
+  - 
+    title: Creating a gradient
